@@ -1,3 +1,9 @@
+### SWMPr 2.3.2.01
+
+* Adding as.swmpr() to help with non-CDMO timeseries data sets
+
+* Modifying swmpr() to handle uppercase in variable names by changing them to lowercase.
+
 #### SWMPr 2.3.1
 
 * Added `collMethd` argument to `import_local` function to specify diel or standard monthly sampling for nutrient samples
